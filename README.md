@@ -1,4 +1,4 @@
-GAME PROJECT USING PYTHON 
+GAME PROJECT USING PYTHON and C++
 - 👋 Hi, I’m @MILESBROCK
 - 👀 I’m interested in CODING,GAMING
 - 🌱 I’m currently learning Phython,MYSQL
