@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MILESBROCK
 - 👀 I’m interested in CODING,GAMING
-- 🌱 I’m currently learning Phython,MYsql
+- 🌱 I’m currently learning Phython,MYSQL
 - 💞️ I’m looking to collaborate on ____
 - 📫 How to reach me fraklinclinton15512020 in instagram
 <!---
